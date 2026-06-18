@@ -28,7 +28,7 @@ Access the deployed interactive web application here: **[Sonic Signatures App](h
 ## 📂 Repository Structure
 
 ```text
-EE200_Audio_Identifier/
+Sonic_Signatures/
 │
 ├── app.py                     # Main Streamlit frontend application
 ├── audio_engine.py            # Backend signal processing and hashing logic
