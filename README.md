@@ -34,5 +34,4 @@ Sonic_Signatures/
 ├── audio_engine.py            # Backend signal processing and hashing logic
 ├── song_database.pkl          # Pre-computed feature index (50 tracks)
 ├── requirements.txt           # Environment dependencies
-├── SonicSignatures_Report.pdf # Comprehensive Q3A project report and methodology
 └── Q3A_Sonic_Signatures.ipynb # Original Jupyter Notebook with data generation scripts
